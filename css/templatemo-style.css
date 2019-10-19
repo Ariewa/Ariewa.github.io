@@ -48,7 +48,7 @@ p {
 
 .primary-blue-button a {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #448AFF;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -61,7 +61,7 @@ p {
 
 .pop-button h4 {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #448AFF;
 	font-size: 13px!important;
 	padding: 12px 18px;
 	color: #fff;
@@ -139,7 +139,7 @@ p {
 }
 .navbar-brand em {
 	font-style: normal;
-	color: #f7c552;
+	color: #3F51B5;
 	font-size: 32px;
 }
 .header.active .navbar-brand {
@@ -161,11 +161,11 @@ p {
 }
 .navbar-inverse .navbar-toggle {
 	margin-top: 22px;
-    border-color: #f7c552;
-    background-color: #f7c552;
+    border-color: #3F51B5;
+    background-color: #3F51B5;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background-color: #f7c552;
+	background-color: #3F51B5;
 }
 bootstrap.min.css:5
 .navbar-toggle {
@@ -227,13 +227,13 @@ bootstrap.min.css:5
 
 .baner-content .text-content h2 span {
 	font-weight: 700;
-	color: #33c1cf!important;
+	color: #448AFF!important;
 }
 
 .baner-content .text-content h2 em {
 	font-style: normal;
 	font-weight: 700;
-	color: #f89624!important;
+	color: #3F51B5!important;
 }
 
 .baner-content .text-content p {
@@ -268,7 +268,7 @@ bootstrap.min.css:5
 	line-height: 104px;
 	border: 3px solid #fff;
 	border-radius: 50%;
-	background-color: #f7c552;
+	background-color: #3F51B5;
 }
 
 #about .service-item h4 {
@@ -324,7 +324,7 @@ bootstrap.min.css:5
 }
 
 .filter-categories ul li.active span {
-  color: #f7c552;
+  color: #3F51B5;
 }
 
 #portoflio .page-section {
@@ -334,7 +334,7 @@ bootstrap.min.css:5
 #portfolio .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
-	background-color: #33c1cf;
+	background-color: #448AFF;
 	height: 732px;
 	margin-left: -100vh;
 	padding-left: 100vh;
@@ -367,7 +367,7 @@ bootstrap.min.css:5
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: #3F51B5;
 	text-align: center;
 	padding: 100px 0px;
 }
@@ -488,11 +488,11 @@ bootstrap.min.css:5
 }
 
 .tabs a:hover {
-  color: #f7c552;
+  color: #3F51B5;
 }
 
 .tabs .active {
-  color: #f7c552;
+  color: #3F51B5;
 }
 #first-tab-group {
 	margin-top: 30px;
@@ -514,11 +514,11 @@ bootstrap.min.css:5
 }
 .tabgroup .text-content span {
 	font-size: 13px;
-	color: #33c1cf;
+	color: #448AFF;
 }
 .tabgroup .text-content a {
 	font-size: 13px;
-	color: #33c1cf;
+	color: #448AFF;
 	text-decoration: none;
 }
 .tabgroup .text-content p {
@@ -595,7 +595,7 @@ bootstrap.min.css:5
 
 #contact button {
   display: inline-block;
-	background-color: #f7c552;
+	background-color: #3F51B5;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -640,7 +640,7 @@ bootstrap.min.css:5
 	line-height: 44px;
 	color: #fff;
 	text-align: center;
-	background-color: #33c1cf;
+	background-color: #448AFF;
 }
 
 .pop span:hover {
@@ -659,7 +659,7 @@ footer {
 footer .logo em {
 	font-style: normal;
 	font-size: 28px;
-	color: #f7c552;
+	color: #3F51B5;
 }
 footer .logo-ft {
 	display: inline-block;
@@ -683,7 +683,7 @@ footer .logo p {
 
 footer .logo span {
 	font-weight: 600;
-	color: #f7c552;
+	color: #3F51B5;
 }
 
 footer .logo a {
@@ -775,7 +775,7 @@ footer .connect-us ul li a {
 	transition: all 0.3s;
 }
 footer .connect-us ul li a:hover {
-	background-color: #f7c552;
+	background-color: #3F51B5;
 }
 
 
@@ -796,7 +796,7 @@ footer .connect-us ul li a:hover {
 		text-align: center;
 		padding-top: 100px;
 		padding-bottom: 100px;
-		background-color: #33c1cf;
+		background-color: #448AFF;
 		height: 505px;
 		margin-left: -15px;
 		padding-left: 0vh;
